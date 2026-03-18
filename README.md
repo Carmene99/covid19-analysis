@@ -29,4 +29,3 @@ L'analyse repose sur l'intégration de trois jeux de données distincts et compl
 ## 🚀 Comment visualiser le rapport
 1. Téléchargez le fichier `.pbix` présent dans ce dépôt.
 2. Ouvrez-le avec **Power BI Desktop**.
-*(Optionnel : Si tu as publié le rapport sur Power BI Service, insère ici le lien vers le rapport web).*
