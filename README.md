@@ -4,7 +4,7 @@
 Ce projet présente une analyse interactive réalisée sous **Power BI**, visant à croiser l'évolution des cas de contamination, les campagnes de vaccination et l'impact des politiques gouvernementales à l'échelle mondiale.
 
 ## 🗂️ Sources des Données
-L'analyse repose sur l'intégration de trois jeux de données distincts et complémentaires sélectionnées pour leur exhaustivité temporelle et la fiabilité des sources institutionnelles:
+L'analyse repose sur l'intégration de trois jeux de données distincts et complémentaires sélectionnés pour leur exhaustivité temporelle et la fiabilité des sources institutionnelles:
 
 1.  **Suivi des Cas (Epidémiologie) :** `covid_19_clean_complete.csv`
     * **Source :** [Kaggle](https://www.kaggle.com/imdevskp/corona-virus-report)
