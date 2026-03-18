@@ -1,6 +1,6 @@
 # Analyse Multidimensionnelle de la Pandémie COVID-19
 
-## 📝 Description du Projet
+## Description du Projet
 Ce projet présente une analyse interactive réalisée sous **Power BI**, visant à croiser l'évolution des cas de contamination, les campagnes de vaccination et l'impact des politiques gouvernementales à l'échelle mondiale.
 
 ## Sources des Données
